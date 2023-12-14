@@ -96,8 +96,6 @@
 #define рассвет begin
 #define закат end
 
-#define обуздать #include
-
 #define арифметика <cmath>
 #define множить *
 #define меньшить /
