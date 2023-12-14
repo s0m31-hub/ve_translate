@@ -12,7 +12,7 @@
 
 //ISTART
 
-
+#define изменить_суть replace
 #define царь_батюшка_главный int main
 #define внедрить using
 #define обозвать typedef
@@ -89,11 +89,12 @@
 #define отторгать ignore
 #define длина_ящера length
 
+
 #define измерить_ящера sizeof
 #define посчитать_буквы strlen
 
-#define рассвет begin;
-#define закат end;
+#define рассвет begin
+#define закат end
 
 #define обуздать #include
 
@@ -116,6 +117,8 @@
 #define да &&
 #define неуч !
 
+#define побег out
+#define вбег in
 //IEND
 внедрить целина = int;
 внедрить вель_дробь = double;
