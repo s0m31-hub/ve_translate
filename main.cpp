@@ -1,5 +1,5 @@
-#include "Ве_крест_крест.h"
-#include "Ве_карта.h"
+#include "Ve/header/Ве_крест_крест.h"
+#include "Ve/header/Ве_карта.h"
 #include <algorithm>
 #include <regex>
 внедрить хутор Русь;

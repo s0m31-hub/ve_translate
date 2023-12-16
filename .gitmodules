@@ -1,0 +1,3 @@
+[submodule "Ve"]
+	path = Ve
+	url = git@github.com:s0m31-hub/znanie-drevnix-extended.git
